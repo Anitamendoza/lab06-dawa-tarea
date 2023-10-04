@@ -1,0 +1,12 @@
+bin/: Puede contener scripts ejecutables si es necesario.
+source/: Contiene los archivos fuente del módulo.
+index.js: Punto de entrada del módulo.
+christmas.js: Contiene la función para determinar la cantidad de días hasta Navidad.
+ageCalculator.js: Contiene la función para calcular la edad a partir de la fecha de nacimiento.
+formValidator.js: Contiene la función para validar formularios.
+dist/: Contiene los archivos transpilados o compilados si es necesario.
+test/: Contiene los archivos de pruebas unitarias.
+test.js: Pruebas unitarias para las funciones del módulo.
+.npmignore: Archivo que especifica qué archivos o carpetas no se deben incluir en el paquete npm.
+package.json: Archivo de configuración del paquete npm.
+README.md: Documentación del módulo.
